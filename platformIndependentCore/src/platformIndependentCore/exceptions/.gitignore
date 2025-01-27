@@ -1,0 +1,5 @@
+/InvalidDataException.class
+/InvalidRequirementException.class
+/MissingPlatformLibrariesException.class
+/TestPlatformNotConfiguredException.class
+/WrappedException.class
